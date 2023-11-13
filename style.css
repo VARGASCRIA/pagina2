@@ -9,8 +9,11 @@ body {
     background: #CCCCCC;
     padding: 30px;
 }
+.titulo-principal {
+    padding-left: 20px
+}
 .titulo-centralizado {
-    padding-left: 20px;
+    text-align: center;
  }
 p {
    text-align: center;
