@@ -10,7 +10,7 @@ body {
     padding: 30px;
 }
 .titulo-centralizado {
-    text-align: center;
+    padding-left: 20px;
  }
 p {
    text-align: center;
